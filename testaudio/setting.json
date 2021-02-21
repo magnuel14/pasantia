@@ -1,0 +1,15 @@
+{
+    "audioConfig": {
+      "audioEncoding": "LINEAR16",
+      "pitch": 0,
+      "speakingRate": 1.00
+    },
+    "input": {
+        "text": "La cara del loro se aclara con cloro, claro, con cloro se aclara la cara del loro.  R, con r cigarro;  r con r barril;  rápido corren las  ruedas, las ruedas del ferrocarril."
+      },
+    "voice": {
+        "languageCode": "es-ES",
+        "name": "es-ES-Standard-A"
+    },
+    "outputFileName":"output1.ogg"
+  }
